@@ -1,8 +1,18 @@
+<!--
+ * @Description:
+ * @Version:
+ * @Autor: qinjunyi
+ * @Date: 2021-02-03 11:03:51
+ * @LastEditors: qinjunyi
+ * @LastEditTime: 2021-02-19 11:42:47
+-->
+
 # 个人前端的工作学习总结
 
 ## js
 
 -   [高阶函数实践-柯里化](https://github.com/qinjunyi/blog/issues/1)
+-   [基于 A+规范的 Promise 实现](https://github.com/qinjunyi/myPromise)
 
 ## 框架
 
