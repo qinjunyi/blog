@@ -11,3 +11,4 @@
 
 ## my tools
 - [脚手架通用模板cli-temp](https://github.com/qinjunyi/cli-temp)
+- [轻量级release工具](https://github.com/qinjunyi/auto-release)
