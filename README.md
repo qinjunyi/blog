@@ -1,8 +1,9 @@
 # Blog
 
-## js
+## js/nodejs
 
 - [高阶函数实践-柯里化](https://github.com/qinjunyi/blog/issues/1)
+- [nodejs执行原理及事件循环机制](https://github.com/qinjunyi/blog/issues/3)
 ## research
 
 - [基于 A+规范的 Promise 实现](https://github.com/qinjunyi/blog/issues/2)
